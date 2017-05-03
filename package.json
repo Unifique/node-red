@@ -103,7 +103,6 @@
         "node-red-contrib-slackbot" : "*",
         "node-red-contrib-freeboard" : "*",
         "node-red-contrib-graphs" : "*",
-        "node-red-contrib-postgres" : "*",
         "node-red-dashboard" : "*",
         "node-red-node-mysql" : "*",
         "node-red-node-sqlite" : "*"
