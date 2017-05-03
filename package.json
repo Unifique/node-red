@@ -97,7 +97,7 @@
         "node-red-node-wordpos":"0.0.3",
         "node-red-node-xmpp":"0.1.6",
         "node-red-node-youtube":"0.0.5",
-        "node-red-dashboard":"2.3.9".
+        "node-red-dashboard":"2.3.9",
         "node-red-contrib-freeboard":"0.0.7",
         "node-red-node-mysql":"0.0.16",
         "node-red-node-sqlite":"0.1.2",
